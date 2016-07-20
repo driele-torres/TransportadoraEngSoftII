@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: transportadora
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: drika
+Implementation-Vendor-Id: edu.ifma.dai
+Build-Jdk: 1.8.0_91
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
